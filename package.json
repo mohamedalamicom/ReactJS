@@ -1,0 +1,27 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "First project with ReactJS",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedalamicom/ReactJS.git"
+  },
+  "author": "Mohamed ALAMI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedalamicom/ReactJS/issues"
+  },
+  "homepage": "https://github.com/mohamedalamicom/ReactJS#readme",
+  "devDependencies": {
+    "light-server": "^2.5.1"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
